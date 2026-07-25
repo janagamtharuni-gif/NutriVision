@@ -1,0 +1,7 @@
+# Requirements for Healthy Food Detection Using AI Desktop App
+# Python 3.9+ compatible
+
+tensorflow>=2.12.0
+opencv-python>=4.7.0.72
+pillow>=9.5.0
+numpy>=1.23.5
